@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Aanvraagformulier.Models.Bijlage>
+
+@{
+    ViewData["Title"] = "Overzicht Bijlagen";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Nieuwe Bijlage Toevoegen</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Aankoop Reden</th>
+            <th>Naam Bijlage</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bijlage in Model)
+        {
+            <tr>
+                <td>@(ViewBag.AankoopRedenDictionary[bijlage.AankoopId])</td>
+                <td>@bijlage.Naam</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@bijlage.Id" class="btn btn-primary">Bewerken</a>
+                    <a asp-action="Delete" asp-route-id="@bijlage.Id" class="btn btn-danger">Verwijderen</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

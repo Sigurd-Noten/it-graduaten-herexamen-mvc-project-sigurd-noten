@@ -1,0 +1,22 @@
+﻿@model Aanvraagformulier.Models.Vak
+
+@{
+    ViewData["Title"] = "Nieuw Vak Toevoegen";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Naam"></label>
+        <input asp-for="Naam" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Verwijderd"></label>
+        <input asp-for="Verwijderd" class="form-control" type="checkbox" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Opslaan</button>
+    <a asp-action="Index" class="btn btn-secondary">Annuleren</a>
+</form>

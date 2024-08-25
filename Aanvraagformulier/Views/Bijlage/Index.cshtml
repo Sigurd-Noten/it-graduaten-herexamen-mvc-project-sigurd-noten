@@ -1,0 +1,44 @@
+﻿@model Aanvraagformulier.ViewModels.IndexBijlageViewModel
+
+@{
+    ViewData["Title"] = "Bijlagen Index";
+}
+
+<h1>Bijlagen</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Bijlage</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bijlagen[0].Naam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bijlagen[0].AankoopId)
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Bijlagen)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Naam)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AankoopId)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

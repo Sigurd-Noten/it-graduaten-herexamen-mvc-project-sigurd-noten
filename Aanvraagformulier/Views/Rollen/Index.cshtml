@@ -1,0 +1,41 @@
+﻿@model Aanvraagformulier.ViewModels.RoleManagementViewModel
+
+@{
+	ViewData["Title"] = "Rollen - Index";
+}
+
+
+    <h2>Rollen Beheer</h2>
+@if (User.IsInRole("Beheerder"))
+{
+    <a asp-action="Create" class="btn btn-primary">Nieuwe Rol Maken</a>
+}
+<form asp-action="UpdateRoles" method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Rolnaam</th>
+                @if (User.IsInRole("Beheerder"))
+                {
+                    <th>Acties</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var role in Model.Roles)
+            {
+                <tr>
+                    <td>@role.Name</td>
+                        @if (User.IsInRole("Beheerder"))
+                        {
+                            <td>
+
+                                <a asp-action="Edit" asp-route-roleName="@role.Name">Bewerken</a> |
+                                <a asp-action="Delete" asp-route-roleName="@role.Name">Verwijderen</a>
+                            </td>
+                        }
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>

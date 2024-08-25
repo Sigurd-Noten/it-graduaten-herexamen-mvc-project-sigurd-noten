@@ -1,0 +1,7 @@
+C:\Users\sigur\OneDrive\Documenten\Programmeren 2023-2024\MVC project\herkansing\Aanvraagformulier\obj\Debug\net6.0\Aanvraagformulier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sigur\OneDrive\Documenten\Programmeren 2023-2024\MVC project\herkansing\Aanvraagformulier\obj\Debug\net6.0\Aanvraagformulier.AssemblyInfoInputs.cache
+C:\Users\sigur\OneDrive\Documenten\Programmeren 2023-2024\MVC project\herkansing\Aanvraagformulier\obj\Debug\net6.0\Aanvraagformulier.AssemblyInfo.cs
+C:\Users\sigur\OneDrive\Documenten\Programmeren 2023-2024\MVC project\herkansing\Aanvraagformulier\obj\Debug\net6.0\Aanvraagformulier.csproj.CoreCompileInputs.cache
+C:\Users\sigur\OneDrive\Documenten\Programmeren 2023-2024\MVC project\herkansing\Aanvraagformulier\obj\Debug\net6.0\Aanvraagformulier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sigur\OneDrive\Documenten\Programmeren 2023-2024\MVC project\herkansing\Aanvraagformulier\obj\Debug\net6.0\Aanvraagformulier.RazorAssemblyInfo.cache
+C:\Users\sigur\OneDrive\Documenten\Programmeren 2023-2024\MVC project\herkansing\Aanvraagformulier\obj\Debug\net6.0\Aanvraagformulier.RazorAssemblyInfo.cs

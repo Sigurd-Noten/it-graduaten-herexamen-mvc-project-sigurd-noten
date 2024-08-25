@@ -1,0 +1,1882 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\bijlagelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\bijlagelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\aankooplistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\aankooplistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\models\\gebruiker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:models\\gebruiker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\models\\customuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:models\\customuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\models\\aankoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:models\\aankoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\models\\bijlage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:models\\bijlage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\migrations\\20231222104319_alles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:migrations\\20231222104319_alles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\data\\aankoopformuliercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:data\\aankoopformuliercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\bijlage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\bijlage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\bijlage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\bijlage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\gebruikers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\gebruikers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\gebruikers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\gebruikers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\gebruikers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\gebruikers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\gebruikerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\gebruikerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\rolemanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\rolemanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\vakcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\vakcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\vakdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\vakdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\vaklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\vaklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\vakeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\vakeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\controllers\\aankoopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:controllers\\aankoopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\migrations\\20231222104319_alles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:migrations\\20231222104319_alles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\formulier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:formulier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\shared\\_layoutaanvraagformulier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\shared\\_layoutaanvraagformulier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\aanvraagformulier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:aanvraagformulier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\createbijlageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\createbijlageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\aankoopcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\aankoopcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\editbijlageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\editbijlageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\aankoopeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\aankoopeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\deletebijlageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\deletebijlageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\archieflistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\archieflistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\aankoopdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\aankoopdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\bijlage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\bijlage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\bijlage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\bijlage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\gebruikercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\gebruikercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\models\\vak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:models\\vak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\vak\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\vak\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\vak\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\vak\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\vak\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\vak\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\vak\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\vak\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\aankoop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\aankoop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\aankoop\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\aankoop\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\aankoop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\aankoop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\views\\aankoop\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:views\\aankoop\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\editproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\editproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\controllers\\gebruikerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:controllers\\gebruikerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\controllers\\bijlagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:controllers\\bijlagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\gebruikereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\gebruikereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\gebruikerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\gebruikerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\viewmodels\\gebruikerdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:viewmodels\\gebruikerdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|c:\\users\\sigur\\onedrive\\documenten\\programmeren 2023-2024\\mvc project\\herkansing\\aanvraagformulier\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FA5BF1-6DB4-4474-98DA-E8BD63B84C43}|Aanvraagformulier.csproj|solutionrelative:areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AankoopFormulierContext.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Data\\AankoopFormulierContext.cs",
+              "RelativeDocumentMoniker": "Data\\AankoopFormulierContext.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Data\\AankoopFormulierContext.cs",
+              "RelativeToolTip": "Data\\AankoopFormulierContext.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:07:44.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20231222104319_Alles.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Migrations\\20231222104319_Alles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231222104319_Alles.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Migrations\\20231222104319_Alles.cs",
+              "RelativeToolTip": "Migrations\\20231222104319_Alles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:41:45.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bijlage.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Bijlage.cs",
+              "RelativeDocumentMoniker": "Models\\Bijlage.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Bijlage.cs",
+              "RelativeToolTip": "Models\\Bijlage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:42:05.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aankoop.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Aankoop.cs",
+              "RelativeDocumentMoniker": "Models\\Aankoop.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Aankoop.cs",
+              "RelativeToolTip": "Models\\Aankoop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:01:10.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomUser.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\CustomUser.cs",
+              "RelativeDocumentMoniker": "Models\\CustomUser.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\CustomUser.cs",
+              "RelativeToolTip": "Models\\CustomUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:34.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:38.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gebruiker.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Gebruiker.cs",
+              "RelativeDocumentMoniker": "Models\\Gebruiker.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Gebruiker.cs",
+              "RelativeToolTip": "Models\\Gebruiker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:01:31.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:42:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AankoopListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\AankoopListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AankoopListViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\AankoopListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AankoopListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:40:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BijlageListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\BijlageListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BijlageListViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\BijlageListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BijlageListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:40:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Bijlage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bijlage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Bijlage\\Index.cshtml",
+              "RelativeToolTip": "Views\\Bijlage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:54:09.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Bijlage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bijlage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Bijlage\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Bijlage\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:36:56.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Gebruikers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gebruikers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Gebruikers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Gebruikers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:54:10.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Gebruikers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gebruikers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Gebruikers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Gebruikers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T14:34:16.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Gebruikers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gebruikers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Gebruikers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Gebruikers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T14:34:15.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:57:12.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:57:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:57:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:43:52.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GebruikerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GebruikerViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GebruikerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:28:50.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:15:16.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\ProductListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:40:52.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\RoleManagementViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RoleManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\RoleManagementViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RoleManagementViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:15:18.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:57:02.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VakCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\VakCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VakCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\VakCreateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\VakCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:42:55.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VakDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\VakDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VakDeleteViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\VakDeleteViewModel.cs",
+              "RelativeToolTip": "ViewModels\\VakDeleteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:43:05.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VakListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\VakListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VakListViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\VakListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\VakListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:40:37.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VakEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\VakEditViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VakEditViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\VakEditViewModel.cs",
+              "RelativeToolTip": "ViewModels\\VakEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:43:15.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:47.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AankoopController.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\AankoopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AankoopController.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\AankoopController.cs",
+              "RelativeToolTip": "Controllers\\AankoopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:34:31.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:56:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAApwKIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:46.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewCQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:38.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20231222104319_Alles.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Migrations\\20231222104319_Alles.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231222104319_Alles.Designer.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Migrations\\20231222104319_Alles.Designer.cs",
+              "RelativeToolTip": "Migrations\\20231222104319_Alles.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:41:56.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "formulier.csproj",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\formulier.csproj",
+              "RelativeDocumentMoniker": "formulier.csproj",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\formulier.csproj",
+              "RelativeToolTip": "formulier.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T13:49:54.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_layoutAanvraagformulier.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_layoutAanvraagformulier.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_layoutAanvraagformulier.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_layoutAanvraagformulier.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_layoutAanvraagformulier.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:58:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Aanvraagformulier",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Aanvraagformulier.csproj",
+              "RelativeDocumentMoniker": "Aanvraagformulier.csproj",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Aanvraagformulier.csproj",
+              "RelativeToolTip": "Aanvraagformulier.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T13:49:53.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:48:32.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:48:10.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:48:09.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T13:48:08.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:46:30.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:58:40.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:02:38.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AankoopCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\AankoopCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AankoopCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\AankoopCreateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AankoopCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:21:39.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T12:39:19.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EditBijlageViewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\EditBijlageViewmodel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditBijlageViewmodel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\EditBijlageViewmodel.cs",
+              "RelativeToolTip": "ViewModels\\EditBijlageViewmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:36:12.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DeleteBijlageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\DeleteBijlageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DeleteBijlageViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\DeleteBijlageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DeleteBijlageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:34:23.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AankoopEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\AankoopEditViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AankoopEditViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\AankoopEditViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AankoopEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:22:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateBijlageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\CreateBijlageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateBijlageViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\CreateBijlageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateBijlageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:33:59.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Bijlage\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bijlage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Bijlage\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bijlage\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:53:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Bijlage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bijlage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Bijlage\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Bijlage\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:53:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AankoopDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\AankoopDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AankoopDeleteViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\AankoopDeleteViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AankoopDeleteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:22:25.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ArchiefListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\ArchiefListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ArchiefListViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\ArchiefListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ArchiefListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:24:05.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Vak.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Vak.cs",
+              "RelativeDocumentMoniker": "Models\\Vak.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Models\\Vak.cs",
+              "RelativeToolTip": "Models\\Vak.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:00:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CreateProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateProductViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:58:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GebruikerCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GebruikerCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerCreateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GebruikerCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:20:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:37.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:10:37.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:10:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Vak\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vak\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Vak\\Create.cshtml",
+              "RelativeToolTip": "Views\\Vak\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:54:43.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Vak\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vak\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Vak\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Vak\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:54:52.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T08:39:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T08:39:54.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:02:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-25T13:02:19.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Vak\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vak\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Vak\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vak\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:55:07.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Vak\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vak\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Vak\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Vak\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:55:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Aankoop\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Aankoop\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Aankoop\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Aankoop\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:52:01.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Aankoop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Aankoop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Aankoop\\Index.cshtml",
+              "RelativeToolTip": "Views\\Aankoop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:51:51.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Aankoop\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Aankoop\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Aankoop\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Aankoop\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:51:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Aankoop\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Aankoop\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Views\\Aankoop\\Create.cshtml",
+              "RelativeToolTip": "Views\\Aankoop\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:51:17.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T12:42:23.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:30:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GebruikersController.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\GebruikersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GebruikersController.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\GebruikersController.cs",
+              "RelativeToolTip": "Controllers\\GebruikersController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:38:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "BijlageController.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\BijlageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BijlageController.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\BijlageController.cs",
+              "RelativeToolTip": "Controllers\\BijlageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:53:47.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "EditProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\EditProductViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditProductViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\EditProductViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:57:50.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "GebruikerEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerEditViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GebruikerEditViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerEditViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GebruikerEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:20:14.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:17:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GebruikerListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GebruikerListViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GebruikerListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:14:59.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:17:40.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "GebruikerDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GebruikerDeleteViewModel.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\ViewModels\\GebruikerDeleteViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GebruikerDeleteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:20:35.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "TwoFactorAuthentication.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:43:40.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T08:43:41.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T08:43:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ShowRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:43:39.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:43:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ResetPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:43:38.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:43:37.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ResetAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:48.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:46.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:45.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:44.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:44.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:43.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Lockout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:43.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:41.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "GenerateRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:40.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ExternalLogins.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:38.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "EnableAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:37.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Disable2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:35.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:32.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\Users\\sigur\\OneDrive\\Documenten\\Programmeren 2023-2024\\MVC project\\herkansing\\Aanvraagformulier\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:42:29.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

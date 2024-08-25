@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Aanvraagformulier.Models.Product>
+
+@{
+    ViewData["Title"] = "Overzicht Producten";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Nieuw Product Toevoegen</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Naam</th>
+            <th>Hoeveelheid</th>
+            <th>Prijs</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Naam</td>
+                <td>@product.Hoeveelheid</td>
+                <td>@product.Prijs.ToString("C")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-primary">Bewerken</a>
+                    <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Verwijderen</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

@@ -1,0 +1,15 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityRole
+
+@{
+	ViewData["Title"] = "Rollen - Delete";
+}
+
+<h2>Rol Verwijderen</h2>
+
+<p>Weet je zeker dat je de rol "@Model.Name" wilt verwijderen?</p>
+
+
+    <a asp-action="DeleteConfirmed" asp-route-roleName="@Model.Name" class="btn btn-danger" >Verwijderen</a>
+    <a asp-action="Index" class="btn btn-default">Annuleren</a>
+
+

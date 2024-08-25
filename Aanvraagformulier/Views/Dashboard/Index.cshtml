@@ -1,0 +1,82 @@
+﻿@using Microsoft.AspNetCore.Authorization
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+<div class="container mt-4">
+    <div class="row">
+        <!-- Aankopen -->
+        <div class="col-md-3 mb-4">
+            <div class="card">
+                <img src="~/images/aankopen.png" class="card-img-top" alt="Aankopen">
+                <div class="card-body">
+                    <h5 class="card-title">Aankopen</h5>
+                    <p class="card-text">Beheer van aankopen en hun details.</p>
+                    <a class="btn btn-primary" asp-area="" asp-controller="Aankoop" asp-action="Index">Bekijk Aankopen</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Producten -->
+        <div class="col-md-3 mb-4">
+            <div class="card">
+                <img src="~/images/producten.png" class="card-img-top" alt="Producten">
+                <div class="card-body">
+                    <h5 class="card-title">Producten</h5>
+                    <p class="card-text">Beheer van producten die kunnen worden aangeschaft.</p>
+                    <a class="btn btn-primary" asp-area="" asp-controller="Product" asp-action="Index">Bekijk Producten</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bijlagen -->
+        <div class="col-md-3 mb-4">
+            <div class="card">
+                <img src="~/images/bijlagen.png" class="card-img-top" alt="Bijlagen">
+                <div class="card-body">
+                    <h5 class="card-title">Bijlagen</h5>
+                    <p class="card-text">Beheer van bijlagen die bij aanvragen worden gevoegd.</p>
+                    <a class="btn btn-primary" asp-area="" asp-controller="Bijlage" asp-action="Index">Bekijk Bijlagen</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Vakken -->
+        <div class="col-md-3 mb-4">
+            <div class="card">
+                <img src="~/images/vakken.png" class="card-img-top" alt="Vakken">
+                <div class="card-body">
+                    <h5 class="card-title">Vakken</h5>
+                    <p class="card-text">Beheer van vakken voor aanvragen.</p>
+                    <a class="btn btn-primary" asp-area="" asp-controller="Vak" asp-action="Index">Bekijk Vakken</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Gebruikers -->
+        <div class="col-md-3 mb-4">
+            <div class="card">
+                <img src="~/images/gebruikers.png" class="card-img-top" alt="Gebruikers">
+                <div class="card-body">
+                    <h5 class="card-title">Gebruikers</h5>
+                    <p class="card-text">Beheer van gebruikers en hun rollen.</p>
+                    <a class="btn btn-primary" asp-area="" asp-controller="Gebruiker" asp-action="Index">Bekijk Gebruikers</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dashboard -->
+        <div class="col-md-3 mb-4">
+            <div class="card">
+                <img src="~/images/dashboard.png" class="card-img-top" alt="Dashboard">
+                <div class="card-body">
+                    <h5 class="card-title">Dashboard</h5>
+                    <p class="card-text">Overzicht en toegang tot alle modules.</p>
+                    <a class="btn btn-primary" asp-area="" asp-controller="Dashboard" asp-action="Index">Terug naar Dashboard</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

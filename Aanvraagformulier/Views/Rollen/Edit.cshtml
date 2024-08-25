@@ -1,0 +1,17 @@
+﻿@model Aanvraagformulier.ViewModels.EditRoleViewModel
+
+@{
+	ViewData["Title"] = "Rollen - Edit";
+}
+
+<h2>Rol Bewerken</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="CurrentRoleName" />
+    <div class="form-group">
+        <label asp-for="NewRoleName">Nieuwe Rolnaam:</label>
+        <input asp-for="NewRoleName" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Opslaan</button>
+    <a asp-action="Index" class="btn btn-default">Annuleren</a>
+</form>

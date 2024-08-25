@@ -1,0 +1,53 @@
+﻿@model Aanvraagformulier.ViewModels.GebruikerListViewModel;
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h2>Gebruikers Beheer</h2>
+@if (User.IsInRole("Beheerder")){
+
+    <a class=" btn btn-primary" id="register" asp-area="Identity" asp-page="/Account/Register">Nieuwe Gebruiker</a>
+}
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Voornaam</th>
+                <th>Achternaam</th>
+                <th>Email</th>
+                <th>Rol</th>
+                @if (User.IsInRole("Beheerder")){
+                    <th>Beheren</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var gebruiker in Model.CustomUsers)
+        {
+                <tr>
+                    <td>@gebruiker.Voornaam</td>
+                    <td>@gebruiker.Achternaam</td>
+                    <td>@gebruiker.Email</td>
+                    <td>
+                        <ul>
+                            @foreach (var rol in Model.UserRoles[gebruiker.Id])
+                            {
+                                <li>@rol</li>
+                            }
+                        </ul>
+                    </td>
+                    <td>
+                        @if (User.IsInRole("Beheerder")){
+                    
+       
+                            <a asp-area="Identity" asp-page="/Account/Manage/DeletePersonalData" asp-route-id="@gebruiker.Id" class="btn btn-primary">Verwijderen</a>                   
+                            <a asp-action="Edit" asp-route-id="@gebruiker.Id" class="btn btn-primary">Beheren</a>
+                         }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+

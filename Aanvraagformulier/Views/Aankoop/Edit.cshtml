@@ -1,0 +1,22 @@
+﻿@model Aanvraagformulier.Models.Bijlage
+
+@{
+    ViewData["Title"] = "Bijlage Bewerken";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label asp-for="AankoopId"></label>
+        <select asp-for="AankoopId" class="form-control" asp-items="@(new SelectList(ViewBag.Aankopen, "Id", "Reden", Model.AankoopId))"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Naam"></label>
+        <input asp-for="Naam" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Opslaan</button>
+    <a asp-action="Index" class="btn btn-secondary">Annuleren</a>
+</form>

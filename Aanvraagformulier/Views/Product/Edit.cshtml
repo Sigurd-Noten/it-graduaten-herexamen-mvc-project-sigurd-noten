@@ -1,0 +1,27 @@
+﻿@model Aanvraagformulier.Models.Product
+
+@{
+    ViewData["Title"] = "Product Bewerken";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label asp-for="Naam"></label>
+        <input asp-for="Naam" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Hoeveelheid"></label>
+        <input asp-for="Hoeveelheid" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Prijs"></label>
+        <input asp-for="Prijs" class="form-control" type="number" step="0.01" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Opslaan</button>
+    <a asp-action="Index" class="btn btn-secondary">Annuleren</a>
+</form>

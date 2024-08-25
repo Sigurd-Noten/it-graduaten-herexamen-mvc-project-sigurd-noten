@@ -1,0 +1,30 @@
+﻿@model Aanvraagformulier.ViewModels.CreateBijlageViewModel
+
+@{
+    ViewData["Title"] = "Create Bijlage";
+}
+
+<h1>Create Bijlage</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Naam" class="control-label"></label>
+        <input asp-for="Naam" class="form-control" />
+        <span asp-validation-for="Naam" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AankoopId" class="control-label"></label>
+        <select asp-for="AankoopId" class="form-control" asp-items="@(new SelectList(Model.Aankopen, "Id", "Naam"))"></select>
+        <span asp-validation-for="AankoopId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
